@@ -1,0 +1,11 @@
+<title>CLI Guide</title>
+<productname>AsciiDoc</productname>
+<productnumber>1.0.0</productnumber>
+<subtitle>Learn how to use the AsciiDoc to migrate your applications.</subtitle>
+<abstract>
+    <para>This guide describes how to use the AsciiDoc to simplify migration of Java applications.</para>
+</abstract>
+<authorgroup>
+    <orgname>pkylasam@redhat.com</orgname>
+</authorgroup>
+<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />

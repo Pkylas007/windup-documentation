@@ -1,0 +1,39 @@
+= Heading Here
+
+.Sample List
+
+. item 1
+
+* nested item 1
+* nested item 2
+
+. item 2
+
++
+
+.Simple Table
+[cols="3,3"]
+|===
+|Column 1 Header | Column 2 Header
+
+|Cell 1 Row 1 | Cell 2 Row 1
+2+|Cell 1 Row 2 | Cell 2 Row 2
+|Cell 1 Row 3 | Cell 2 Row 3
+
+|===
+
+
+
+
+.GitHub Octacat
+image::https://asciidoctor.org/images/octocat.jpg[GitHub Mascot]
+
+`code inline`
+
+.Code Block
+----
+
+This is a code block.
+
+----
+
